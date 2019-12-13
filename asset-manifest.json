@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.863425fa.chunk.css",
+    "main.js": "/static/js/main.ef5ad7f1.chunk.js",
+    "main.js.map": "/static/js/main.ef5ad7f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.37fa2dab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.37fa2dab.js.map",
+    "static/js/2.b92f3aa1.chunk.js": "/static/js/2.b92f3aa1.chunk.js",
+    "static/js/2.b92f3aa1.chunk.js.map": "/static/js/2.b92f3aa1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fbf422554329fb425fd8615f8a526fca.js": "/precache-manifest.fbf422554329fb425fd8615f8a526fca.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.863425fa.chunk.css.map": "/static/css/main.863425fa.chunk.css.map",
+    "static/media/account.svg": "/static/media/account.1609d42b.svg",
+    "static/media/awards.svg": "/static/media/awards.d6f1ae3e.svg",
+    "static/media/back.svg": "/static/media/back.870bd6b3.svg",
+    "static/media/card-left.svg": "/static/media/card-left.e5bc2e1d.svg",
+    "static/media/card-right.svg": "/static/media/card-right.8b6fa08f.svg",
+    "static/media/icon.svg": "/static/media/icon.8a1e150f.svg",
+    "static/media/intro-flavell.svg": "/static/media/intro-flavell.4610a837.svg",
+    "static/media/intro-meta-components.svg": "/static/media/intro-meta-components.8184dbce.svg",
+    "static/media/intro-thinking.svg": "/static/media/intro-thinking.0266d143.svg",
+    "static/media/lock.svg": "/static/media/lock.1d1e3962.svg",
+    "static/media/logo.svg": "/static/media/logo.7f7dc69f.svg",
+    "static/media/measuring-1.svg": "/static/media/measuring-1.62e7f479.svg",
+    "static/media/measuring-2.svg": "/static/media/measuring-2.dae15bd4.svg",
+    "static/media/metacognition.svg": "/static/media/metacognition.06a55900.svg",
+    "static/media/modules.svg": "/static/media/modules.6331c61d.svg",
+    "static/media/nextPage.svg": "/static/media/nextPage.013391fc.svg",
+    "static/media/pentagon.svg": "/static/media/pentagon.e7c6789b.svg",
+    "static/media/prevPage.svg": "/static/media/prevPage.f69b6053.svg",
+    "static/media/question.svg": "/static/media/question.f94a8742.svg",
+    "static/media/rights.svg": "/static/media/rights.e0468331.svg",
+    "static/media/stats.svg": "/static/media/stats.1979f806.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37fa2dab.js",
+    "static/js/2.b92f3aa1.chunk.js",
+    "static/css/main.863425fa.chunk.css",
+    "static/js/main.ef5ad7f1.chunk.js"
+  ]
+}
